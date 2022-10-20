@@ -1,16 +1,16 @@
 # Senior Engineering Projects | Add list of sites to grid
 
-## Creating a new matrix page (for web team)
+## Creating a new matrix page and prep matrix for content (for web team)
 
-1. Login to engineering site. Create new page based on year, use year URL "2022-2023" as an example.
-2. In custom field, Senior Projects Grid, under Year add latest year
-3. Open the page in headway and import
-4. Copy formatting in headway
-5. In custom block change 
-	'meta_value'	=> array('23'), to current year
+1. Login to [engineering site](https://engineering.tcnj.edu/). 
+2. Create new page based on the year and title Engineering Senior Projects 'year'. Use year URL "2022-2023" as an example.
+3. In the WP dashboard custom field group, Senior Projects Grid, under Year add latest year in format, "23 : 2022-2023" and click "Update"
+4. Open the new page in headway and import the page formatting from the previous year's page.
+5. In the lower custom block change the 'meta_value' to match the first number in the previous custom field 
+> 'meta_value'	=> array('23')
+6. Publish the page.
 
-
-## Importing list of sites (for web team and Terry)
+## Importing list of sites for new year (for web team and Terry)
 [View formatted spreadsheet](https://docs.google.com/spreadsheets/d/13s5IzXsWPuQcfOKXzJPZt8qJz58W-EaM7A67pk5FcVI/edit?usp=sharing)
 > To be used for storing and formatting data
 
