@@ -11,6 +11,7 @@
 6. Publish the page.
 
 ## Importing list of sites for new year (for web team and Terry)
+### A. Edit and download spreadsheet
 [Access formatted spreadsheet](https://docs.google.com/spreadsheets/d/13s5IzXsWPuQcfOKXzJPZt8qJz58W-EaM7A67pk5FcVI/edit?usp=sharing)
 > To be used for storing and formatting data
 
@@ -22,46 +23,20 @@
 - CE Senior Projects
 3. Add the category type, title, and URL of this year's project sites.
 4. Click "File -> Download -> .csv file" Download the sheet as a .csv file. 
-5. Login to the [engineering site](https://engineering.tcnj.edu/) and in the dashboard navigate to "All Import" and select "New Import."
-6. Click "Upload a file" and add your .csv file
-7. Under "New Items," "create new,"" select "Eng Senior Projects" and click Continue
 
-Check that the following nodes show-up in the listing
-categories
-title
-_hw_seo_redirect301
-Select Continue
+### B. Import spreadsheet data to website
+1. Login to the [engineering site](https://engineering.tcnj.edu/) and in the dashboard navigate to "All Import" and select "New Import."
+2. Click "Upload a file" and add your .csv file
+3. Under "New Items," "create new," select "Eng Senior Projects" and click Continue
+4. Check that the following nodes show-up in the listing then click "Continue"
+- categories
+- title
+- _hw_seo_redirect301
+5. Scroll to bottom of page. Select "Load Template" and pick "Project Import"
+6. Open the Advanced Custom Fields Add-on and under "Year," select latest year
+7. Unselect "Save Setting as a template"
+8. Click continue
+9. Click confirm and run import
+10. Refresh the recently created matrix page, for example https://engineering.tcnj.edu/2021-2022/. You should see your newly added project
+11. Contact webteam to add year's listing to the main projects page
 
-Scroll to bottom of page. Select "Load Template" and pick "Project Import"
-
-Open the Advanced Custom Fields Add-on and under "Year," select latest year
-
-Unselect "Save Setting as a template"
-
-Unselect "Update existing eng senior projects with the data in your file"
-
-Click continue
-
-Click confirm and run import
-
-Refresh the recently created matrix page, for example https://engineering.tcnj.edu/2021-2022/
-
-You should see your newly added project
-
-
-
-Open import all wp plugin, upload a file, select new Items En Senior Projects. Continue to step 2, continue to step 3
-
-Drag
-
-Template select, Project Import
-
-in advanced custom fields choose latest year
-
-select Create new eng senior projects from records newly present in your file
-
-no others should be selected
-
-click continue
-
-Fix social feeds
