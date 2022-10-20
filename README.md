@@ -11,8 +11,8 @@
 
 
 ## Importing list of sites (for web team and Terry)
-[View formatted spreadsheet]https://docs.google.com/spreadsheets/d/13s5IzXsWPuQcfOKXzJPZt8qJz58W-EaM7A67pk5FcVI/edit?usp=sharing
-To be used for storing and formatting data
+[View formatted spreadsheet](https://docs.google.com/spreadsheets/d/13s5IzXsWPuQcfOKXzJPZt8qJz58W-EaM7A67pk5FcVI/edit?usp=sharing)
+> To be used for storing and formatting data
 
 Create a new spreadsheet tab and current year's site listing to the following spreadsheet. Please be sure to keep the existing column headers and category types. The category type for an individual site must be one of the following:
 BME Senior Projects
