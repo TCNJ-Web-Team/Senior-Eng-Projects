@@ -21,11 +21,10 @@
 - ME Senior Projects
 - CE Senior Projects
 3. Add the category type, title, and URL of this year's project sites.
-4. Download the sheet as a .csv file. Login to the engineering site and in the dashboard navigate to "All Import" and select "New Import."
-
-Click "Upload a file" and add your .csv file
-Under "New Items," "create new,"" select "Eng Senior Projects"
-Click Continue
+4. Click "File -> Download -> .csv file" Download the sheet as a .csv file. 
+5. Login to the [engineering site](https://engineering.tcnj.edu/) and in the dashboard navigate to "All Import" and select "New Import."
+6. Click "Upload a file" and add your .csv file
+7. Under "New Items," "create new,"" select "Eng Senior Projects" and click Continue
 
 Check that the following nodes show-up in the listing
 categories
