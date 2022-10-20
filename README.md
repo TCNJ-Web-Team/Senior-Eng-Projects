@@ -11,16 +11,17 @@
 6. Publish the page.
 
 ## Importing list of sites for new year (for web team and Terry)
-[View formatted spreadsheet](https://docs.google.com/spreadsheets/d/13s5IzXsWPuQcfOKXzJPZt8qJz58W-EaM7A67pk5FcVI/edit?usp=sharing)
+[Access formatted spreadsheet](https://docs.google.com/spreadsheets/d/13s5IzXsWPuQcfOKXzJPZt8qJz58W-EaM7A67pk5FcVI/edit?usp=sharing)
 > To be used for storing and formatting data
 
-Create a new spreadsheet tab and current year's site listing to the following spreadsheet. Please be sure to keep the existing column headers and category types. The category type for an individual site must be one of the following:
-BME Senior Projects
-ECE Senior Projects
-ME Senior Projects
-CE Senior Projects
-
-Download the sheet as a .csv file. Login to the engineering site and in the dashboard navigate to "All Import" and select "New Import."
+1. Create a new spreadsheet tab titled with the current year. Please be sure to **keep the existing column headers and category types.** 
+2. The category type for an individual site **must** be one of the following:
+- BME Senior Projects
+- ECE Senior Projects
+- ME Senior Projects
+- CE Senior Projects
+3. Add the category type, title, and URL of this year's project sites.
+4. Download the sheet as a .csv file. Login to the engineering site and in the dashboard navigate to "All Import" and select "New Import."
 
 Click "Upload a file" and add your .csv file
 Under "New Items," "create new,"" select "Eng Senior Projects"
