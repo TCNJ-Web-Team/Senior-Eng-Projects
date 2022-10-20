@@ -11,7 +11,7 @@
 6. Publish the page.
 
 ## Importing list of sites for new year (for web team and Terry)
-**Before starting process, contact web team to let them know you're importing content**
+***Before starting process, contact web team to let them know you're importing content***
 ### A. Edit and download spreadsheet data
 [Access formatted spreadsheet](https://docs.google.com/spreadsheets/d/13s5IzXsWPuQcfOKXzJPZt8qJz58W-EaM7A67pk5FcVI/edit?usp=sharing)
 > To be used for storing and formatting data. Please contact web team if additional users need access to the sheet
