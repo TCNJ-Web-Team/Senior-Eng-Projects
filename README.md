@@ -1,4 +1,4 @@
-# Senior Engineering Projects | Add list of sites to grid
+# Senior Engineering Projects | Add list of sites to matrix
 
 ## Creating a new matrix page and prep matrix for content (for web team)
 
@@ -11,9 +11,9 @@
 6. Publish the page.
 
 ## Importing list of sites for new year (for web team and Terry)
-### A. Edit and download spreadsheet
+### A. Edit and download spreadsheet data
 [Access formatted spreadsheet](https://docs.google.com/spreadsheets/d/13s5IzXsWPuQcfOKXzJPZt8qJz58W-EaM7A67pk5FcVI/edit?usp=sharing)
-> To be used for storing and formatting data
+> To be used for storing and formatting data. Please contact web team if additional users need access to the sheet
 
 1. Create a new spreadsheet tab titled with the current year. Please be sure to **keep the existing column headers and category types.** 
 2. The category type for an individual site **must** be one of the following:
@@ -22,7 +22,7 @@
 - ME Senior Projects
 - CE Senior Projects
 3. Add the category type, title, and URL of this year's project sites.
-4. Click "File -> Download -> .csv file" Download the sheet as a .csv file. 
+4. Click "File -> Download -> .csv file" to download the sheet as a .csv file. 
 
 ### B. Import spreadsheet data to website
 1. Login to the [engineering site](https://engineering.tcnj.edu/) and in the dashboard navigate to "All Import" and select "New Import."
@@ -37,6 +37,6 @@
 7. Unselect "Save Setting as a template"
 8. Click continue
 9. Click confirm and run import
-10. Refresh the recently created matrix page, for example https://engineering.tcnj.edu/2021-2022/. You should see your newly added project
-11. Contact webteam to add year's listing to the main projects page
+10. Refresh the recently created matrix page, for example https://engineering.tcnj.edu/2021-2022/. You should see your newly added project matrix.
+11. Contact webteam to add year's listing to the main projects page.
 
